@@ -1,7 +1,8 @@
 /* Name variations Project 
   In this project, you will practice your newly acquired string skills!
   Complete the given functions as described in the comments and try the app that you just built in the BROWSER tab.
-  Take your time, make as many mistakes as possible and learn from them! */
+  Take your time, make as many mistakes as possible and learn from them!
+  project preview link (not from the website, uploaded myself): https://imgur.com/a/oHu0wOZ */
 
 /** @param {string} name */
 export function getNumberOfChars(name) {
