@@ -2,17 +2,15 @@
   Complete the function lowerName such that it returns the name parameter it receives all in lower case. */
 
 /**
- * @param {string} name
- */
-function shoutMyName(name) {
-    return name.toUpperCase();
+ * @param {string} name */
+function lowerName(name) {
+    return name.toLowerCase();
 }
 
 // Sample usage - do not modify
-console.log(shoutMyName("Sam")); // "SAM"
-console.log(shoutMyName("Charley")); // "CHARLEY"
-console.log(shoutMyName("alex")); // "ALEX"
+console.log(lowerName("Sam")); // "sam"
+console.log(lowerName("ALEX")); // "alex"
 
 /** passed test cases
   * returns a string
-  * makes string uppercase */
+  * makes string lowercase */
