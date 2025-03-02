@@ -2,8 +2,7 @@
   Complete the function shoutMyName such that it returns the name parameter it receives all in upper case. */
 
 /**
- * @param {string} name
- */
+ * @param {string} name */
 function shoutMyName(name) {
     return name.toUpperCase();
 }
