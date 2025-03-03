@@ -2,8 +2,7 @@
   Complete the function getLastApp such that it returns the last element from the apps array it receives as a parameter. */
 
 /**
- * @param {array} apps
- */
+ * @param {array} apps */
 function getLastApp(apps) {
     return apps.at(-1)
 }
