@@ -1,4 +1,4 @@
-# Table of Contents
+# 📖 Table of Contents
 ## **Lesson 1:** [Strings](01-strings) <br/>
 ## **Lesson 2:** [Numbers](02-numbers) <br/>
 ## **Lesson 3:** [Variables](03-variables) <br/>
