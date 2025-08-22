@@ -11,9 +11,11 @@ Lesson 5: [Arrays](05-arrays) <br>
 Lesson 6: [Arrays II & Callbacks](06-arrays-2-and-callbacks) <br>
 
 <details>
-  <summary># Your JavaScript Knowledge Map</summary>
-  ## Syntax
-  test
+  <summary><h1>Your JavaScript Knowledge Map</h1></summary>
+  <h2>Syntax</h2>
+  <ul>
+    <li>try...catch...finally</li>
+  </ul>
 </details>
 
 ---
