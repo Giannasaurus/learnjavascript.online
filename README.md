@@ -10,6 +10,12 @@ Lesson 4: [Conditions](04-conditions) <br>
 Lesson 5: [Arrays](05-arrays) <br>
 Lesson 6: [Arrays II & Callbacks](06-arrays-2-and-callbacks) <br>
 
+<details>
+  <summary># Your JavaScript Knowledge Map</summary>
+  ## Syntax
+  test
+</details>
+
 ---
 
 # Go To My Other Repos Like This
