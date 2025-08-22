@@ -1,3 +1,6 @@
+# Courses by Jad
+[JavaScript](https://learnjavascript.online) | [HTML, CSS](https://learnhtmlcss.online) | [Programming](https://learnprogramming.online) | [React](https://react-tutorial.app) | [TypeScript](https://learntypescript.online)
+
 # 📖 Table of Contents
 Lesson 1: [Strings](01-strings) <br/>
 Lesson 2: [Numbers](02-numbers) <br/>
